@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Gustavo Antunes Veiga do Carmo**, a software enthusiast and student of *Sistemas para Internet* at IFTO, currently pursuing a Bachelor's degree in Software Engineering at Anhanguera.
+I'm **Gustavo Antunes Veiga do Carmo**, a software enthusiast and student of *Sistemas para Internet* at IFTO.
 
 - 🔭 I’m currently working on [a web-based reservation system project](link-to-project).
 - 🌱 I’m currently learning more about front-end development (HTML, CSS, JavaScript) and back-end technologies like Python and SQL.
