@@ -1,6 +1,6 @@
 ### Olá! 👋  
 
-Sou **Gustavo Antunes Veiga do Carmo**, estudante dedicado de *Sistemas para Internet* no **IFTO** e entusiasta por tecnologia e inovação.  
+Sou **Gustavo Antunes**, estudante dedicado de *Sistemas para Internet* no **IFTO** e entusiasta por tecnologia e inovação.  
 
 ---
 
