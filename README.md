@@ -1,14 +1,43 @@
-## Hi there 👋
+### Olá! 👋  
 
-I'm **Gustavo Antunes Veiga do Carmo**, a software enthusiast and student of *Sistemas para Internet* at IFTO.
+Sou **Gustavo Antunes Veiga do Carmo**, estudante dedicado de *Sistemas para Internet* no **IFTO** e entusiasta por tecnologia e inovação.  
 
-- 🔭 I’m currently working on [a web-based reservation system project](link-to-project).
-- 🌱 I’m currently learning more about front-end development (HTML, CSS, JavaScript) and back-end technologies like Python, Java and SQL.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 🤔 I’m looking for help with improving my full-stack development skills and exploring new tech frameworks.
-- 💬 Ask me about software development, Python, Java, web development, or even marketing strategies (I’m the Director of Marketing at my college’s athletic association, Combyte)!
-- 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/gustavo-antunes-044534303/) or [Email](mailto:veigagustavo@gmail.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I participated as a volunteer at Campus Party 2024, coordinating events and learning a lot about emerging technologies!
+---
 
-Let’s connect and create something amazing together! 🚀
+#### 🚀 **No que estou trabalhando**
+- **Projeto Atual**: Desenvolvendo um **sistema de reserva baseado na web** para simplificar processos de agendamento.  
+
+---
+
+#### 🌱 **O que estou aprendendo**  
+Estou sempre expandindo meu conhecimento em:  
+- **Desenvolvimento Front-End**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> **HTML**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> **CSS** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> **JavaScript**  
+- **Tecnologias Back-End**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> **Java** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> **SQL**  
+- **Controle de Versões e Repositórios**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> **GitHub** e **Git**, incluindo boas práticas de versionamento e colaboração.  
+
+---
+
+#### 👨‍💻 **Experiência**  
+- Trabalho como **técnico de helpdesk**, fornecendo suporte técnico, resolução de problemas e assistência a usuários. Essa experiência me permitiu desenvolver habilidades práticas em atendimento ao cliente e solução de problemas tecnológicos.  
+
+---
+
+#### 🤝 **Vamos colaborar?**  
+- Estou interessado em contribuir com **projetos de código aberto** e **soluções tecnológicas inovadoras**.  
+- Busco mentorias para aprimorar habilidades em **desenvolvimento full-stack**, gerenciamento de repositórios e aprender novas ferramentas e frameworks.  
+
+---
+
+#### 📫 **Como me encontrar**  
+- **LinkedIn**: [Gustavo Antunes Veiga do Carmo](https://www.linkedin.com/in/gustavo-antunes-044534303/)  
+- **Email**: [gustavoavdcarmo@gmail.com](mailto:gustavoavdcarmo@gmail.com)  
+
+---
+
+#### ⚡ **Curiosidade**
+Fui voluntário na **Campus Party 2024**, onde coordenei eventos e tive a oportunidade de explorar **tecnologias emergentes** e fortalecer meu trabalho em equipe.  
+
+Vamos nos conectar e construir algo incrível juntos! 🌟  
