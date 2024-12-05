@@ -12,7 +12,7 @@ Sou **Gustavo Antunes**, estudante dedicado de *Sistemas para Internet* no **IFT
 #### 🌱 **O que estou aprendendo**  
 Estou sempre expandindo meu conhecimento em:  
 - **Desenvolvimento Front-End**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> **HTML**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> **CSS** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> **JavaScript**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> **HTML**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> **CSS**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> **JavaScript** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> **TypeScript** 
 - **Tecnologias Back-End**:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> **Java** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> **SQL**  
 - **Controle de Versões e Repositórios**:  
