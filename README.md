@@ -39,5 +39,6 @@ Estou sempre expandindo meu conhecimento em:
 
 #### ⚡ **Curiosidade**
 Fui voluntário na **Campus Party 2024**, onde coordenei eventos e tive a oportunidade de explorar **tecnologias emergentes** e fortalecer meu trabalho em equipe.  
+Fui **Diretor de Marketing na Atlética Combyte**, onde liderei estratégias de comunicação e gestão para fortalecer a presença da nossa comunidade.
 
 Vamos nos conectar e construir algo incrível juntos! 🌟  
