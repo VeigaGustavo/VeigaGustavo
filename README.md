@@ -4,8 +4,8 @@ Sou **Gustavo Antunes**, estudante dedicado de *Sistemas para Internet* no **IFT
 
 ---
 
-#### 🚀 **No que estou trabalhando**
-- **Projeto Atual**: Desenvolvendo um **sistema de reserva baseado na web** para simplificar processos de agendamento.  
+### 🚀 **No que estou trabalhando**
+- **Projeto Atual**: Análise de dados utilizando uma tabela da Agência Nacional de Petróleo. O projeto envolve a criação de uma tabela relacional e comparativa, utilizando Python com as bibliotecas Pandas, Faker, Numpy e Random para análise e simulação de dados. Estou utilizando o Google Colab como IDE para facilitar o desenvolvimento e a execução de código no ambiente colaborativo. O objetivo é explorar a relação entre profundidade e quantidade de hidrocarboneto, contribuindo para uma nova visão sobre a exploração do recurso no Brasil.
 
 ---
 
