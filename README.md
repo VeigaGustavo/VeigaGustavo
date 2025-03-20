@@ -4,24 +4,30 @@ Sou **Gustavo Antunes**, estudante dedicado de *Sistemas para Internet* no **IFT
 
 ---
 
-### 🚀 **No que estou trabalhando**
-- **Projeto Atual**: Análise de dados utilizando uma tabela da Agência Nacional de Petróleo. O projeto envolve a criação de uma tabela relacional e comparativa, utilizando Python com as bibliotecas Pandas, Faker, Numpy e Random para análise e simulação de dados. Estou utilizando o Google Colab como IDE para facilitar o desenvolvimento e a execução de código no ambiente colaborativo. O objetivo é explorar a relação entre profundidade e quantidade de hidrocarboneto, contribuindo para uma nova visão sobre a exploração do recurso no Brasil.
+## 🌱 O que estou aprendendo  
+Sempre expandindo meu conhecimento e explorando novas tecnologias:  
 
----
+### 💻 Desenvolvimento Front-End & Mobile  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16"/> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="16"/> **Dart**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="16"/> **Flutter**  
 
-#### 🌱 **O que estou aprendendo**  
-Estou sempre expandindo meu conhecimento em:  
-- **Desenvolvimento Front-End**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> **HTML**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> **CSS**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> **JavaScript** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> **TypeScript** 
-- **Tecnologias Back-End**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> **Java** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> **SQL**  
-- **Controle de Versões e Repositórios**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> **GitHub** e **Git**, incluindo boas práticas de versionamento e colaboração.  
+### 🖥️ Tecnologias Back-End  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16"/> **Python**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16"/> **Java**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="16"/> **SQL**  
+
+### 📌 Controle de Versão & Colaboração  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="16"/> **GitHub** e **Git**  
+- Aplicando boas práticas de versionamento e trabalho em equipe.  
+
 
 ---
 
 #### 👨‍💻 **Experiência**  
-- Trabalho como **técnico de helpdesk**, fornecendo suporte técnico, resolução de problemas e assistência a usuários. Essa experiência me permitiu desenvolver habilidades práticas em atendimento ao cliente e solução de problemas tecnológicos.  
+- **Técnico de Helpdesk**: Fornecendo suporte técnico, resolução de problemas e assistência a usuários. Essa experiência me permitiu desenvolver habilidades práticas em atendimento ao cliente e solução de problemas tecnológicos.  
+
+- **Gestor e Desenvolvedor de E-commerce**: Responsável pela gestão e desenvolvimento de plataformas de e-commerce, integrando tecnologias para otimizar a experiência do usuário e aumentar a eficiência operacional. Atuo no desenvolvimento de novas funcionalidades, manutenção de sistemas e implementação de estratégias para melhorar o desempenho das lojas virtuais.  
 
 ---
 
@@ -32,7 +38,7 @@ Estou sempre expandindo meu conhecimento em:
 ---
 
 #### 📫 **Como me encontrar**  
-- **LinkedIn**: [Gustavo Antunes Veiga do Carmo](https://www.linkedin.com/in/gustavo-antunes-044534303/)  
+- **LinkedIn**: [Gustavo Antunes](https://www.linkedin.com/in/carmogustavo/)  
 - **Email**: [gustavoavdcarmo@gmail.com](mailto:gustavoavdcarmo@gmail.com)  
 
 ---
