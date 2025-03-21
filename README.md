@@ -16,17 +16,17 @@ Apaixonado por **tecnologia, inovação e desenvolvimento de software**, estudo 
 Sempre expandindo meu conhecimento e explorando novas tecnologias:  
 
 ### 💻 Desenvolvimento Front-End & Mobile  
- **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/>  
- **Dart** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20"/>  
- **Flutter** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> **JavaScript**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20"/> **Dart**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20"/> **Flutter**  
 
 ### 🖥️ Tecnologias Back-End  
- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>  
- **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/>  
- **SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> **Java**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> **SQL**  
 
 ### 📌 Controle de Versão & Colaboração  
-🌍 **Git & GitHub** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> **Git & GitHub**  
 🤝 Aplicando boas práticas de versionamento e trabalho em equipe.  
 
 ---
