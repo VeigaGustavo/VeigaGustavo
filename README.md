@@ -52,13 +52,6 @@ Sempre expandindo meu conhecimento e explorando novas tecnologias:
 
 ---
 
-## 📫 Como me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carmogustavo/)  
-✉️ **Email**: [gustavoavdcarmo@gmail.com](mailto:gustavoavdcarmo@gmail.com)  
-
----
-
 ## ⚡ Curiosidades  
 
 - 🎟️ **Voluntário na Campus Party 2024**: Organização de eventos e imersão em **tecnologias emergentes**.  
