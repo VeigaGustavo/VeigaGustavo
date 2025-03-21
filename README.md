@@ -43,15 +43,6 @@ Sempre expandindo meu conhecimento e explorando novas tecnologias:
 
 ---
 
-## 🚀 Vamos colaborar?  
-
-🎯 Busco contribuir com **projetos open-source** e soluções **tecnológicas inovadoras**.  
-📌 Interesse em **Full-Stack**, **gerenciamento de repositórios** e novas tecnologias.  
-
-🔗 **Se você também ama tecnologia, vamos nos conectar!**  
-
----
-
 ## ⚡ Curiosidades  
 
 - 🎟️ **Voluntário na Campus Party 2024**: Organização de eventos e imersão em **tecnologias emergentes**.  
@@ -64,7 +55,3 @@ Sempre expandindo meu conhecimento e explorando novas tecnologias:
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-7159c1?style=for-the-badge)](https://app.rocketseat.com.br/me/veigagustavo)  
 [![DIO](https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gustavoavdcarmo)  
 [![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge)](https://www.udemy.com/user/gustavo-antunes-veiga-do-carmo/)  
-
----
-
-🔥 **Sempre aprendendo, sempre evoluindo.** *Bora criar algo incrível juntos!* 🚀  
