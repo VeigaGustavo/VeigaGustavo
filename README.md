@@ -53,6 +53,5 @@ Vamos nos conectar e construir algo incrível juntos! 🌟
 
 ### **Você pode ver um pouco do meu aprendizado em:**  
 
-- [![Rocketseat](https://img.shields.io/badge/-Rocketseat-7159c1?style=for-the-badge)](https://app.rocketseat.com.br/me/veigagustavo)  
-- [![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/gustavo-antunes-veiga-do-carmo/)  
+- [![Rocketseat](https://img.shields.io/badge/-Rocketseat-7159c1?style=for-the-badge)](https://app.rocketseat.com.br/me/veigagustavo)
 - [![DIO](https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gustavoavdcarmo)  
