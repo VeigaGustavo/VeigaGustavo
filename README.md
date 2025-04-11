@@ -73,9 +73,9 @@ Sempre em busca de **novos desafios**, gosto de explorar **desenvolvimento Full-
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🛍️ Di Casa Restaurante](https://github.com/VeigaGustavo/portfolio-dicasa) | Portfólio Web. | HTML • CSS • Responsividade |
-| [➕ Tabuada](https://github.com/VeigaGustavo/tabuada) | Calculadora de Tabuada interativa feita em PHP, JavaScript, HTML e CSS. | PHP • JavaScript • HTML • CSS |
-| [🎵 Spotify Replica](https://github.com/VeigaGustavo/spotify-replica) | Replica do Spotify com funcionalidades de reprodução de músicas e layout inspirado no original. | React • Express • MongoDB  |
+| [🛍️ Di Casa Restaurante](https://github.com/VeigaGustavo/Dicasa.git) | Portfólio Web. | HTML • CSS • Responsividade |
+| [➕ Tabuada](https://github.com/VeigaGustavo/tabuada.git) | Calculadora de Tabuada interativa feita em PHP, JavaScript, HTML e CSS. | PHP • JavaScript • HTML • CSS |
+| [🎵 Spotify Replica](https://github.com/VeigaGustavo/spotfyReplica) | Replica do Spotify com funcionalidades de reprodução de músicas e layout inspirado no original. | React • Express • MongoDB  |
 
 
 ---
