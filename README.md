@@ -30,7 +30,7 @@ Sempre em busca de **novos desafios**, gosto de explorar **desenvolvimento Full-
 <table>
   <thead>
     <tr>
-      <th>💻 Front-End & Mobile</th>
+      <th>💻 Front-End</th>
       <th>🖥️ Back-End</th>
       <th>🗄️ Banco de Dados</th>
     </tr>
