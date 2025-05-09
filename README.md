@@ -1,25 +1,23 @@
+# Olá, Sou Gustavo Antunes! 👋
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3ACE&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Sou+Gustavo+Antunes!;Desenvolvedor+Full+Stack;Estudante+de+Tecnologia" alt="Typing SVG" />
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=VeigaGustavo&style=for-the-badge&color=7F3ACE" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/VeigaGustavo?style=for-the-badge&logo=github&color=7F3ACE" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/VeigaGustavo?style=for-the-badge&logo=github&color=7F3ACE" alt="Stars" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3ACE&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+Tecnologia" alt="Typing SVG" />
 </div>
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VeigaGustavo&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Antunes github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeigaGustavo&layout=compact&hide_border=true&title_color=7F3ACE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VeigaGustavo&bg_color=0d1117&color=7F3ACE&line=7F3ACE&point=7F3ACE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VeigaGustavo&theme=midnight-purple&hide_border=true" />
 </div>
 
-## 🎯 Principais Competências
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VeigaGustavo&bg_color=0d1117&color=7F3ACE&line=7F3ACE&point=7F3ACE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🛠️ Stack Tecnológica
 
 ```typescript
 const gustavoAntunes = {
@@ -42,34 +40,44 @@ const gustavoAntunes = {
 };
 ```
 
-## 🚀 Experiências & Conquistas
+### 🚀 Tecnologias e Ferramentas
 
 <table>
   <tr>
     <td>
+      <h3>Frontend</h3>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
     </td>
     <td>
+      <h3>Backend</h3>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
-      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express" style="background-color: white; padding: 2px; border-radius: 4px;"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
     </td>
     <td>
+      <h3>Databases</h3>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
     </td>
     <td>
+      <h3>DevOps & Tools</h3>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
     </td>
+    <td>
+      <h3>Cloud Services</h3>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" alt="Google Cloud"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" alt="AWS" style="background-color: white; padding: 2px; border-radius: 4px;"/>
+    </td>
   </tr>
 </table>
 
-## 🌟 Destaques
+## 🏆 Conquistas e Experiências
 
 - 🎟️ **Voluntário na Campus Party 2024**
   > Organização de eventos e imersão em tecnologias emergentes
@@ -81,27 +89,21 @@ const gustavoAntunes = {
 ## 📂 Projetos em Destaque
 
 <div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=veigagustavo-portfolio&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9)](https://github.com/VeigaGustavo/veigagustavo-portfolio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=linux-projeto2-iac&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9)](https://github.com/VeigaGustavo/linux-projeto2-iac)
-
+  <a href="https://github.com/VeigaGustavo/veigagustavo-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=veigagustavo-portfolio&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/VeigaGustavo/linux-projeto2-iac">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=linux-projeto2-iac&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9" alt="Linux IAC" />
+  </a>
 </div>
-
-## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/carmogustavo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://g.dev/veigagustavo" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Developers-7F3ACE?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"/>
-  </a>
-  <a href="https://linktr.ee/carmogustavo" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-7F3ACE?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  <a href="https://github.com/VeigaGustavo?tab=repositories">
+    <img src="https://img.shields.io/badge/-Ver+mais+repositórios-7F3ACE?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
   </a>
 </div>
 
-## 📚 Acompanhe minha trajetória
+## 📚 Plataformas de Estudo
 
 <div align="center">
   <a href="https://app.rocketseat.com.br/me/veigagustavo" target="_blank">
@@ -112,6 +114,20 @@ const gustavoAntunes = {
   </a>
   <a href="https://www.udemy.com/user/gustavo-antunes-veiga-do-carmo/" target="_blank">
     <img src="https://img.shields.io/badge/-Udemy-7F3ACE?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
+  </a>
+</div>
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carmogustavo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://g.dev/veigagustavo" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Developers-7F3ACE?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"/>
+  </a>
+  <a href="https://linktr.ee/carmogustavo" target="_blank">
+    <img src="https://img.shields.io/badge/-Linktree-7F3ACE?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 </div>
 
