@@ -82,8 +82,8 @@ const gustavoAntunes = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=spotfyReplica&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9)](https://github.com/VeigaGustavo/spotfyReplica)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=Dicasa&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9)](https://github.com/VeigaGustavo/Dicasa)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=veigagustavo-portfolio&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9)](https://github.com/VeigaGustavo/veigagustavo-portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=linux-projeto2-iac&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9)](https://github.com/VeigaGustavo/linux-projeto2-iac)
 
 </div>
 
