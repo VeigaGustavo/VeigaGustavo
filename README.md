@@ -99,7 +99,7 @@ const gustavoAntunes = {
 
 <div align="center">
   <a href="https://github.com/VeigaGustavo?tab=repositories">
-    <img src="https://img.shields.io/badge/-Ver+mais+repositórios-7F3ACE?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
+    <img src="https://img.shields.io/badge/-repositories-7F3ACE?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
   </a>
 </div>
 
