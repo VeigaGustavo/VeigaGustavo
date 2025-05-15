@@ -21,7 +21,7 @@
 
 ```typescript
 const gustavoAntunes = {
-    code: ["JavaScript", "TypeScript", "PHP", "Java", "Shell Script"],
+    code: ["JavaScript", "Python", "Java", "Shell Script"],
     technologies: {
         frontEnd: {
             js: ["React"],
@@ -29,7 +29,7 @@ const gustavoAntunes = {
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            php: ["PHP"],
+            Python: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
             java: ["Java"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
