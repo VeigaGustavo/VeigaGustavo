@@ -29,7 +29,7 @@ const gustavoAntunes = {
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            Python: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
+            Python: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
             java: ["Java"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
