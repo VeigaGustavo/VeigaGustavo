@@ -102,7 +102,7 @@ const gustavoAntunes = {
   </a>
 </div>
 
-## 📚 Plataformas de Estudo
+## 📚 Acompanhe meus Estudos
 
 <div align="center">
   <a href="https://app.rocketseat.com.br/me/veigagustavo" target="_blank">
