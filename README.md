@@ -21,16 +21,17 @@
 
 ```typescript
 const gustavoAntunes = {
-    code: ["JavaScript", "Python", "Java", "Shell Script"],
+    code: ["JavaScript", "Dart", "Java", "Shell Script", "Python"],
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Bootstrap", "Styled Components"]
+            dart: ["Flutter"]
+            css: ["Bootstrap", "Styled Components"], 
         },
         backEnd: {
             js: ["Node.js", "Express"],
             Python: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-            java: ["Java"]
+            java: ["Java", "Spring"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps: ["Linux", "Git", "Docker"]
@@ -47,14 +48,16 @@ const gustavoAntunes = {
     <td>
       <h3>Frontend</h3>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" alt="Flutter"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" alt="Dart"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
     </td>
     <td>
       <h3>Backend</h3>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
-      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Flutter"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring"/>
     </td>
     <td>
       <h3>Databases</h3>
