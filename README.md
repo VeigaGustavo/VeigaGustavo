@@ -31,7 +31,7 @@ const gustavoAntunes = {
         backEnd: {
             js: ["Node.js", "Express"],
             Python: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-            java: ["Java", "Spring"]
+            java: ["Java", "Spring boot"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps: ["Linux", "Git", "Docker"]
