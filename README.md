@@ -81,12 +81,20 @@ const gustavoAntunes = {
 
 ## 🏆 Conquistas e Experiências
 
-- 🎟️ **Voluntário na Campus Party 2024**
-  > Organização de eventos e imersão em tecnologias emergentes
-- 🏆 **Diretor de Marketing - Atlética Combyte**
-  > Liderança e gestão de comunidade universitária
-- 📚 **Sistemas para Internet - IFTO**
-  > Formação técnica em desenvolvimento web
+- 💼 **Desenvolvedor FullStack – Player Contabilidade**  
+  > Criação de soluções web para otimização de processos no setor contábil.  
+
+- 🌐 **Estagiário de Suporte N1 – Idx Datacenters (2025)**  
+  > Atuação em suporte técnico, atendimento de chamados e monitoramento de infraestrutura.  
+
+- 🎟️ **Voluntário – Campus Party Brasil (2024)**  
+  > Organização de eventos e imersão em tecnologias emergentes.  
+
+- 🏫 **Representante CPA – Curso de Sistemas para Internet (IFTO)**  
+  > Participação em processos de avaliação institucional e representação estudantil.  
+
+- 📣 **Diretor de Marketing – Atlética Combyte (IFTO)**  
+  > Responsável por comunicação, campanhas e identidade digital da atlética.  
 
 ## 📂 Projetos em Destaque
 
