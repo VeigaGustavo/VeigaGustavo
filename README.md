@@ -136,9 +136,9 @@ const gustavoAntunes = {
   <a href="https://g.dev/veigagustavo" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Developers-7F3ACE?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"/>
   </a>
-  <a href="https://linktr.ee/carmogustavo" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-7F3ACE?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
+ <a href="https://www.veigagustavo.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/-Website-7F3ACE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
 </div>
 
 <div align="center">
