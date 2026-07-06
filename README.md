@@ -35,7 +35,6 @@ const gustavoAntunes = {
     devOps: ["Linux", "Git", "Docker"],
     cloud: ["AWS", "Google Cloud"],
   },
-  currentFocus: "Desenvolvimento Full Stack e DevOps",
-  funFact: "Bugs são apenas features não documentadas! 🐛",
+  currentFocus: "Desenvolvimento Full Stack e DevOps"
 };
 ```
